@@ -25,8 +25,6 @@ public class exercicio04 {
         grossSalary = hours * hourlyWage;
 
         System.out.printf("O salário bruto é =  %.2f", grossSalary);
-
-
-
+        sc.close();
     }
 }
