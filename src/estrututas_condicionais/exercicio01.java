@@ -14,10 +14,10 @@ public class exercicio01 {
         number = sc.nextInt();
 
         if(number >= 0){
-            System.out.print("Não negativo");
+            System.out.printf("%d não é negativo!", number);
         }
         else{
-            System.out.print("Negativo");
+            System.out.printf("%d é negativo!", number);
         }
         sc.close();
     }
