@@ -9,8 +9,8 @@ O objetivo deste projeto é documentar meu aprendizado, aplicar conceitos fundam
 Os exercícios estão organizados em pacotes (`packages`) de acordo com o tópico de estudo. Cada pacote contém os exercícios resolvidos, seguindo a numeração e o enunciado original.
 
 * `estruturas_sequenciais`: Exercícios que utilizam entrada, processamento e saída de dados de forma linear.
-* `estruturas_condicionais`: (Em breve) Exercícios com tomadas de decisão (`if/else`, `switch/case`).
-* `estruturas_repetitivas`: (Em breve) Exercícios com laços de repetição (`for`, `while`, `do/while`).
+* `estruturas_condicionais`: Exercícios com tomadas de decisão (`if/else`, `switch/case`).
+* `estruturas_repetitivas`: Exercícios com laços de repetição (`While/Do Whille`).
 
 ## Tecnologias e Ferramentas
 
@@ -18,7 +18,6 @@ Os exercícios estão organizados em pacotes (`packages`) de acordo com o tópic
 * **IDE**: IntelliJ IDEA
 * **Controle de Versão**: Git e GitHub
 
-
 ## Autor
 
-**Mateus Cunha** - [Seu Perfil do GitHub](https://github.com/Mateuscunha-Dev)
+[Mateus Cunha](https://github.com/Mateuscunha-Dev)
